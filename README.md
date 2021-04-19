@@ -1,5 +1,7 @@
 # ispexet-se
 
+[![Powered by Vercel](./public/powered-by-vercel.svg)](https://vercel.com/??utm_source=isektionen&utm_campaign=oss)
+
 Proposed code shell for redeveopment of [ispexet.se](https://ispexet.se). Built using
 
 - [Next.js](https://nextjs.org)
